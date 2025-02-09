@@ -1,6 +1,7 @@
 User-agent: *
-Allow: /
-Disallow: /drafts/  # If you have hidden pages
+Disallow: /admin/
+Disallow: /login/
+Allow: /public/
 Sitemap: https://speedyhypnosis.github.io/wgum/sitemap.xml
 
 
