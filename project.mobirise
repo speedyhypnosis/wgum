@@ -46,9 +46,9 @@
       }
     ],
     "robotsSwitcher": true,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "robotsText": "User-agent: *\nAllow: /\nDisallow: /drafts/  # If you have hidden pages\nSitemap: https://speedyhypnosis.github.io/wgum/sitemap.xml\n\n\n",
     "favicon": false,
-    "mbrsiteDomain": "rtxtrrsd91",
+    "mbrsiteDomain": "kzypcmxgjd",
     "imageResize": true,
     "usedWebp": true,
     "sitemapSwitcher": true,
